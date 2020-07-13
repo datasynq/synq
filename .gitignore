@@ -1,0 +1,6 @@
+.DS_Store
+.esm-cache
+/dist
+/_hidden
+/node_modules
+!/src/node_modules
