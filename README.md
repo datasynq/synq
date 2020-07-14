@@ -1,3 +1,7 @@
+BIG NOTICE: this is a work in progress library, not ready for any serious use, and is only in proof of concept stages. A short white paper (or something to that effect) will be forth coming.
+
+<img src="https://user-images.githubusercontent.com/111424/87494540-84508c80-c60c-11ea-9bec-324113af109a.png" alt="A word and warning." style="max-width:150px;"/>
+
 # synq
 
 CLI Tool for standardizing and sharing distributed data.

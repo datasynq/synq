@@ -20,10 +20,13 @@ select(prog)
 import remote from '@qq/commands/remote'
 remote(prog)
 
-// import pull from './commands/pull'
+import transform from '@qq/commands/transform'
+transform(prog)
+
+// import pull from '@qq/commands/pull'
 // pull(prog)
 
-// import push from './commands/push'
+// import push from '@qq/commands/push'
 // push(prog)
 
 prog.parse(process.argv)
